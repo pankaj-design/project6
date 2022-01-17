@@ -1,0 +1,52 @@
+.container{
+    padding: 5px;
+    margin: auto;
+    background-color:bisque;
+    align-items: center;
+    border-radius: 15px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    border-style:double ;
+    border-color:black ;
+}
+section{
+    border-style:solid;
+    border-color:brown;
+    border-width: 10px;
+    border-radius: 5px;
+}
+table{
+    display: flex;
+    background-color:#a78928;
+    padding: 15px 5px 0px 10px;
+
+}
+button{
+    height: 50px;
+    width: 60px;
+    background-color: brown;
+    font-size: 20px;
+}
+#A1{
+    width: 265px; 
+    height: 60px;
+    background-color: antiquewhite;
+    font-size: 33px;
+    display: flex;
+}
+*{
+    background-color:burlywood;
+    
+}
+.imp{
+    padding: 2px 115px;
+    align-items: center;
+     width: 275px; 
+}
+h2{
+    background-color:cornsilk;
+}
+button:hover{
+    background-color: crimson;
+}
